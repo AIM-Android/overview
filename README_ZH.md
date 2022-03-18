@@ -4,7 +4,7 @@
 
 *  研华工业Android开发包SDK:
     -   [通用工业Android开发SDK(开发中)]
-    -   [MRM SDK开发包](https://github.com/AIM-Android/MrmSdk)
+    -   [MRM SDK开发包(包括CAN，串口，GPIO等等功能)](https://github.com/AIM-Android/MrmSdk)
     -   [Barcode Reader扫码枪SDK开发包](https://github.com/AIM-Android/ScannerWedgeSample)
     -   [串口开发](https://github.com/kongqw/AndroidSerialPort)
  
