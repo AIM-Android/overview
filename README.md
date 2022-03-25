@@ -12,12 +12,12 @@
     -   Advantech Android Agent<br>
             >  [百度云盘下载 提取码：xian](https://pan.baidu.com/s/14powWT7NG_9yNEFLUC_3sQ) <br>
             >  [Download from google drive](https://drive.google.com/drive/folders/1Ei_-W58QXzfpjXIJkTXdkO_-QZ0WChKP?usp=sharing)<br>   
-    -   UART Test tool
-    -   Kiosk Manager
+    -   [UART Test tool](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#36-serial-port-test-tools)
+    -   [Kiosk Manager](https://github.com/AIM-Android/KioskManager)
   
   * Cloud Solution
-    -   Remote Device Manager:AppHub
-    -   AppStore:AppHub Repo
+    -   [Remote Device Manager:AppHub](https://docs.wise-paas.advantech.com/en/Guides_and_API_References/ApplicationServices/1611826936336928113/1613468986148692729/v1.0.1)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+    -   [AppStore:AppHub Repo](https://docs.wise-paas.advantech.com/en/Guides_and_API_References/ApplicationServices/1611826936336928113/1613469269483084392/v1.0.1)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
     
   
 
