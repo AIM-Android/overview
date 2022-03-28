@@ -1,6 +1,7 @@
-[简体中文](https://github.com/AIM-Android/overview/blob/main/README_ZH.md)
+English|[简体中文](https://github.com/AIM-Android/overview/blob/main/README_ZH.md)
+____
 
-*  [Advantech Industry Android Introduction](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution)
+*  [Advantech Industry Android Overview Introduction](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution)
 
 *  Industry SDK:
     -   [General Industry SDK (in developing)]
@@ -16,8 +17,8 @@
     -   [Kiosk Manager](https://github.com/AIM-Android/KioskManager)
   
   * Cloud Solution
-    -   [Remote Device Manager:AppHub](https://docs.wise-paas.advantech.com/en/Guides_and_API_References/ApplicationServices/1611826936336928113/1613468986148692729/v1.0.1)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
-    -   [AppStore:AppHub Repo](https://docs.wise-paas.advantech.com/en/Guides_and_API_References/ApplicationServices/1611826936336928113/1613469269483084392/v1.0.1)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+    -   [Remote Device Manager:AppHub](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#41-android-remote-device-management-system-apphub)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+    -   [AppStore:AppHub Repo](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#42-private-app-storeapphub-repo)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
     
   
 
