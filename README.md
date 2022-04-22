@@ -20,6 +20,11 @@ ____
   * Cloud Solution
     -   [Remote Device Manager:AppHub](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#41-android-remote-device-management-system-apphub)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
     -   [AppStore:AppHub Repo](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#42-private-app-storeapphub-repo)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+
+
+  * Contact us
+    -   Email:Jianfeng.dai@advantech.com.cn
+    -   Wechat: jianfeng_dai
     
   
 
