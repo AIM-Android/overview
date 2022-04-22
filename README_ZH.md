@@ -20,3 +20,7 @@
   * 云边协同方案
     -   [远程Android设备管理:AppHub](https://docs.wise-paas.advantech.com.cn/zh-cn/Guides_and_API_References/ApplicationServices/1611826936336928113/1613468986148692729)/[AppHub激活码购买](https://wise-iot.advantech.com.cn/zh-cn/marketplace/product/advantech.wise-paas-apphub/pricing-details)/[AppHub简介视频](https://www.bilibili.com/video/BV1WP4y177xL)/[AppHub详细讲解视屏](https://www.bilibili.com/video/BV1RP4y147gH)/[AppHub OTA功能视频](https://www.bilibili.com/video/BV1zu411D7gF)
     -   [应用商店方案:AppHub Repo](https://docs.wise-paas.advantech.com.cn/zh-cn/Guides_and_API_References/ApplicationServices/1611826936336928113/1613469269483084392)/[AppHub Repo激活码购买](https://wise-iot.advantech.com.cn/zh-cn/marketplace/product/advantech.wise-paas-apphub/pricing-details)/[视频介绍](https://www.bilibili.com/video/BV1aF411p721)
+
+  * 联系我们
+    -   E-mail:jianfeng.dai@advantech.com.cn
+    -   微信：jianfeng_dai
