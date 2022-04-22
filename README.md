@@ -12,7 +12,8 @@ ____
  * Android Tools App 
     -   Advantech Android Agent<br>
             >  [百度云盘下载 提取码：xian](https://pan.baidu.com/s/14powWT7NG_9yNEFLUC_3sQ) <br>
-            >  [Download from google drive](https://drive.google.com/drive/folders/1Ei_-W58QXzfpjXIJkTXdkO_-QZ0WChKP?usp=sharing)<br>   
+            >  [Download from google drive](https://drive.google.com/drive/folders/1Ei_-W58QXzfpjXIJkTXdkO_-QZ0WChKP?usp=sharing)<br>  
+    -   [Enterprise security management](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#32-enterprise-security-management)<br>
     -   [UART Test tool](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#36-serial-port-test-tools)
     -   [Kiosk Manager](https://github.com/AIM-Android/KioskManager)
   
