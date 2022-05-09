@@ -16,10 +16,13 @@ ____
     -   [Enterprise security management](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#32-enterprise-security-management)<br>
     -   [UART Test tool](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#36-serial-port-test-tools)
     -   [Kiosk Manager](https://github.com/AIM-Android/KioskManager)
+    -   [VideoPlayer(in developing)]
   
-  * Cloud Solution
-    -   [Remote Device Manager:AppHub](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#41-android-remote-device-management-system-apphub)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
-    -   [AppStore:AppHub Repo](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#42-private-app-storeapphub-repo)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+  * Advantech Android Enterprise Solution
+    -   Android Enterprise Recommended (AER) Security Policy and Setting 
+    -   [Remote Device Manager and EMM Solution:AppHub](https://github.com/EdgeSolution/AppHub/blob/main/README.md)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+    -   [Private AppStore:AppHub Repo](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#42-private-app-storeapphub-repo)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+    -   Android Zero-Touch solution(in developing)
 
 
   * Contact us
