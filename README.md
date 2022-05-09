@@ -4,7 +4,7 @@ ____
 *  [Advantech Industry Android Overview Introduction](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution)
 
 *  Industry SDK:
-    -   [General Industry SDK (in developing)]
+    -   [General Industry SDK (More API in developing)](https://github.com/AIM-Android/AdvAndroidUtilsDemo)
     -   [MRM SDK](https://github.com/AIM-Android/MrmSdk)
     -   [Barcode Reader SDK](https://github.com/AIM-Android/ScannerWedgeSample)
     -   [UART SDK](https://github.com/kongqw/AndroidSerialPort)
@@ -20,8 +20,8 @@ ____
   
   * Advantech Android Enterprise Solution（Benchmarking Google AER）
     -   [Android Enterprise Recommended (AER) Security Policy and Setting](https://github.com/AIM-Android/overview/wiki/Android-Enterprise-Recommended-(AER)-Security-Policy-and-Setting) 
-    -   [Remote Device Manager and EMM Solution:AppHub](https://github.com/EdgeSolution/AppHub/blob/main/README.md)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub))
-    -   [Private AppStore:AppHub Repo](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#42-private-app-storeapphub-repo)([Buy Licnese](https://wise-paas.advantech.com/en-us/marketplace/product/advantech.wise-paas-apphub) )
+    -   [Remote Device Manager and EMM Solution:AppHub](https://github.com/EdgeSolution/AppHub/blob/main/README.md)
+    -   [Private AppStore:AppHub Repo](https://github.com/AIM-Android/overview/wiki/Advantech-Industry-Android-Solution#42-private-app-storeapphub-repo)
     -   Android Zero-Touch solution(in developing)
 
 
