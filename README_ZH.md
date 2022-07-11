@@ -13,7 +13,7 @@
             >  [百度云盘下载 提取码：xian](https://pan.baidu.com/s/14powWT7NG_9yNEFLUC_3sQ) <br> 
     -   [企业级系统安全配置管理](https://github.com/AIM-Android/overview/wiki/%E7%A0%94%E5%8D%8E%E5%B7%A5%E4%B8%9AAndroid%E6%96%B9%E6%A1%88#32%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86)([安全配置管理视频介绍](https://www.bilibili.com/video/BV1fT4y1a7s1/))
     -   [串口测试工具](https://github.com/AIM-Android/overview/wiki/%E7%A0%94%E5%8D%8E%E5%B7%A5%E4%B8%9AAndroid%E6%96%B9%E6%A1%88#36%E4%B8%B2%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)
-    -   [Kiosk应用管理工具](https://github.com/AIM-Android/KioskManager/blob/main/READ_ZH.md)
+    -   [Kiosk应用管理工具](https://github.com/AIM-Android/KioskManager/blob/main/README_ZH.md)
     -   [远程桌面](https://github.com/AIM-Android/overview/wiki/%E7%A0%94%E5%8D%8E%E5%B7%A5%E4%B8%9AAndroid%E6%96%B9%E6%A1%88#34%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2)
     -   [屏幕异常检查](https://github.com/AIM-Android/overview/wiki/%E7%A0%94%E5%8D%8E%E5%B7%A5%E4%B8%9AAndroid%E6%96%B9%E6%A1%88#35%E5%B1%8F%E5%B9%95%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B)
 
